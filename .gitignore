@@ -1,0 +1,14 @@
+# API Keys
+.env
+
+# Large data files
+data/
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints
