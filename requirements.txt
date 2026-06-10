@@ -1,0 +1,12 @@
+pandas
+numpy
+jupyter
+notebook
+sqlalchemy
+matplotlib
+seaborn
+plotly
+streamlit
+anthropic
+python-dotenv
+google-generativeai
