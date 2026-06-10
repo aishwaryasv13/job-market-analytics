@@ -33,7 +33,11 @@ streamlit run chatbot.py
 
 ## Screenshots
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/db1.png)
+![Dashboard](screenshots/db2.png)
+![Dashboard](screenshots/db3.png)
+![Dashboard](screenshots/db4.png)
+![Dashboard](screenshots/db5.png)
 
 ### AI Chatbot
 ![Chatbot](screenshots/chatbot.png)
