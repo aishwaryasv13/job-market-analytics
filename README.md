@@ -40,7 +40,7 @@ streamlit run chatbot.py
 ![Dashboard](screenshots/db5.png)
 
 ### AI Chatbot
-![Chatbot](screenshots/chatbot.png)
+![Chatbot](screenshots/Chatbot.png)
 
 ## Project Structure
 - `01_cleaning.ipynb` — Data cleaning and preprocessing
